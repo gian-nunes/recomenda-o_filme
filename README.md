@@ -1,1 +1,2 @@
 recomendacao_de_filmes
+Criei um algoritmo de recomendação de filmes personalizados usando Python. O algoritmo usa técnicas de filtragem colaborativa e baseada em conteúdo para sugerir filmes com base nas preferências do usuário. O algoritmo demonstrou precisão promissora em conjuntos de dados reais. Este projeto aprimorou minhas habilidades em Python, manipulação de dados e algoritmos de recomendação.
